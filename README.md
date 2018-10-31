@@ -13,3 +13,5 @@ A idea list which is planned to be implemented is given here : https://medium.co
 [ ] Add more dataset 
 
 [ ] Portal for connecting seller
+
+If you are waiting for the app, please think again!
